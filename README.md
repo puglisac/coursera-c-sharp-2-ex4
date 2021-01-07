@@ -1,4 +1,4 @@
-# Exercise 2: Lists
+# Exercise 4: For and Foreach Loops
 
 This is an exercise for the coursera course [More C# Programming and Unity](https://www.coursera.org/learn/more-programming-unity)
 
@@ -18,19 +18,19 @@ Use a for loop to print the numbers between the lower and upper bound (inclusive
 
 Follow the instructions for your IDE from the Adding a DLL lecture to add the ConsoleCards.dll from the zip file as a reference for your project.
 
-Inside the \tt{Main}Main method, declare a deck variable and create a new \tt{Deck}Deck object for that variable.
+Inside the **Main** method, declare a deck variable and create a new **Deck** object for that variable.
 
-Inside the \tt{Main}Main method, declare a list variable that will hold a hand of cards and create a new list object for that variable.
+Inside the **Main** method, declare a list variable that will hold a hand of cards and create a new list object for that variable.
 
 Tell the deck to shuffle itself.
 
-Problem 3 - Deal and print the cards in a hand using for and foreach loops
+### Problem 3 - Deal and print the cards in a hand using for and foreach loops
 
 Use a for loop to deal 5 cards from the deck to the hand
 
 Use a for loop to flip all the cards in the hand over. Do NOT hard-code 5 as the upper limit of the loop.
 
-Use a foreach loop (not a for loop) to print all the cards in the hand (remember, the \tt{Card}Card class exposes a \tt{Print}Print method).
+Use a foreach loop (not a for loop) to print all the cards in the hand (remember, the **Card** class exposes a **Print** method).
  
 ## Installation
 To install, follow these steps:
